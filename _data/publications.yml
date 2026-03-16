@@ -4,24 +4,28 @@ main:
     conference: "Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025), 2025."
     conference_short: "NAACL 2025"
     notes: "CCF B"
+    code: "https://github.com/tsinghua-fib-lab/AgentMove"
 
   - title: "TrajAgent: An Agent Framework for Unified Trajectory Modelling"
     authors: "**Yuwei Du**, Jie Feng, Jie Zhao, et al."
     conference: "Advances in Neural Information Processing Systems (NeurIPS 2025), 2025."
     conference_short: "NeurIPS 2025"
     notes: "CCF A"
+    code: "https://github.com/tsinghua-fib-lab/TrajAgent"
 
   - title: "CityGPT: Empowering Urban Spatial Cognition of Large Language Models"
     authors: "Jie Feng*, Tianhui Liu, **Yuwei Du**, et al."
     conference: "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025), 2025."
     conference_short: "KDD 2025"
     notes: "CCF A"
+    code: "https://github.com/tsinghua-fib-lab/CityGPT"
 
   - title: "CityBench: Evaluating the Capabilities of Large Language Model as World Model"
     authors: "Jie Feng, Jun Zhang, Junbo Yan, **Yuwei Du**, et al."
     conference: "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025), 2025."
     conference_short: "KDD 2025"
     notes: "CCF A"
+    code: "https://github.com/tsinghua-fib-lab/CityBench"
 
   - title: "Mapping the Wizards' Path: A Systematic Review of Wizard-of-Oz in HCI with Implications for the LLM Era"
     authors: "Ruoxuan Yang, **Yuwei Du**, Hongyang Du"

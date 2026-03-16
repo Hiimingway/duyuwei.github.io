@@ -8,6 +8,7 @@
   {% if link.notes %}{{ link.notes }}{% endif %}
   {% if link.pdf %} [PDF]({{ link.pdf }}){% endif %}
   {% if link.code %} [Code]({{ link.code }}){% endif %}
+  {% if link.github %} [GitHub]({{ link.github }}){% endif %}
   {% if link.page %} [Project Page]({{ link.page }}){% endif %}
 
 {% endfor %}

@@ -16,8 +16,7 @@ enable_last_update: false
 # Links
 link_type: icon
 google_scholar: https://scholar.google.com/
-cv_link: assets/files/CV_YuweiDu_phd.pdf
-github_link: https://github.com/duyuwei
+github_link: https://github.com
 
 # Images (optional - add your avatar path when available)
 avatar: ./assets/img/icon.png
