@@ -5,13 +5,9 @@ affiliation: Tsinghua University
 affiliation_link: https://www.tsinghua.edu.cn/
 email: duyw23 (at) mails.tsinghua.edu.cn
 
-# Base URL - 项目页需设置；若仓库为 duyuwei/duyuwei.github.io 则改为 ""
-baseurl: "/duyuwei.github.io"
-url: "https://hiimingway.github.io"
-
 # Search Engine Optimization (SEO)
 keywords: Yuwei Du, LLM agents, spatial intelligence, urban science, spatiotemporal data mining, trajectory modeling
-canonical: https://hiimingway.github.io/duyuwei.github.io
+canonical: https://duyuwei.github.io
 description: Yuwei Du is a Master's candidate at Tsinghua University. Research: LLM agents, spatial intelligence, urban science, and spatiotemporal data mining.
 
 # The option is used to show the last update time.
@@ -40,8 +36,6 @@ auto_dark_mode: true
 font: "Sans Serif"
 
 # Use minimal-light as remote theme for GitHub Pages
-plugins:
-  - jekyll-remote-theme
 remote_theme: yaoyao-liu/minimal-light
 
 # Exclude from generated site
