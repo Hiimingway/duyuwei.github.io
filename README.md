@@ -1,2 +1,2 @@
 # duyuwei.github.io
-> Personal academic website of Yuwei Du. Master's candidate at Tsinghua University specializing in LLM Agents, Spatial Intelligence, and Urban Science.
+> Yuwei Du | Tsinghua University. Research: LLM Agents, Spatiotemporal Reasoning, Human Behavior Modeling, and Autonomous AI Scientist.
