@@ -4,7 +4,16 @@ Personal academic homepage built with [Minimal Light](https://github.com/yaoyao-
 
 ## Live Site
 
-https://duyuwei.github.io
+- **当前配置**（仓库在 Hiimingway 下）：https://hiimingway.github.io/duyuwei.github.io/
+- **若使用 duyuwei.github.io**：需将仓库迁移到 `duyuwei/duyuwei.github.io`，并将 `_config.yml` 中 `baseurl` 改为 `""`
+
+## 部署步骤（解决 404）
+
+1. **启用 GitHub Pages**：仓库 → Settings → Pages → Build and deployment → Source 选择 **GitHub Actions**
+2. **推送代码**：`git push origin main` 后会自动触发构建
+3. **访问地址**：
+   - 当前：https://hiimingway.github.io/duyuwei.github.io/
+   - 若想用 https://duyuwei.github.io：需创建 `duyuwei/duyuwei.github.io` 仓库并迁移代码，将 `baseurl` 改为 `""`
 
 ## Local Development
 
@@ -13,7 +22,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open http://localhost:4000
+Then open http://localhost:4000（本地需加 baseurl：http://localhost:4000/duyuwei.github.io/）
 
 ## Structure
 
