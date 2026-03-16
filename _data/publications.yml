@@ -58,9 +58,3 @@ main:
     conference: "Under Review at the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, Research Track), 2026."
     conference_short: "KDD 2026 (Under Review)"
     notes: "CCF A"
-
-  - title: "U-SCOPE: Multi-Agent Adaptive User Modeling for Personalized Recommendations in Mobile AI Applications"
-    authors: "Shiyuan Zhang, **Yuwei Du**, Ruoxuan Yang, et al."
-    conference: "Under Review at Advances in Neural Information Processing Systems (NeurIPS 2026), 2026."
-    conference_short: "NeurIPS 2026 (Under Review)"
-    notes: "CCF A"
