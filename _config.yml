@@ -20,7 +20,7 @@ cv_link: assets/files/CV_YuweiDu_phd.pdf
 github_link: https://github.com/duyuwei
 
 # Images (optional - add your avatar path when available)
-# avatar: ./assets/img/avatar.png
+avatar: ./assets/img/icon.png
 # favicon: ./assets/img/favicon.png
 # favicon_dark: ./assets/img/favicon-dark.png
 
